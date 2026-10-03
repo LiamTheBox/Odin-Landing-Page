@@ -3,6 +3,14 @@ body {
   background-color: #1f2937;
 }
 
+header {
+  flex: 1; /*IDK*/
+}
+
+
+
+
+
 .hero-main-text {
   font-size: 48px;
   color: #f9faf8;
@@ -29,7 +37,7 @@ button {
   font-weight: 900;
 }
 
-.quote-section-background-color {
+.quote-section {
   color: #e5e7eb;
 }
 
